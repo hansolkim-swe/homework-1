@@ -1,2 +1,8 @@
 B411209 주성호 Homework1
 
+This file has been modified by B635112 Hansol Kim
+for tryouts of utilizing forked repository.
+
+HW2
+
+#Github #Contribute
